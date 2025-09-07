@@ -1,3 +1,4 @@
+## URL For practice Basic HTML Website - > [Practice Project ](https://roadmap.sh/projects/basic-html-website)
 # This website should have following pages and only using HTML:
     - Homepage
     - Projects
@@ -8,4 +9,4 @@
     - Structure a website using HTML in a semantic way.
     - Structure in a way that you can easily add styles later.
     - Add SEO meta tags to the website.
-## URL For practice Basic HTML Website - > https://roadmap.sh/projects/basic-html-website
+
